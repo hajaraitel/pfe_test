@@ -12,7 +12,7 @@
             </div>
             <v-divider :vertical="$vuetify.breakpoint.mdAndUp"></v-divider>
             <div>
-              <v-card-title> Apple iPhone 11 Pro </v-card-title>
+              <v-card-title> Apple iPhone 13 Pro </v-card-title>
               <v-card-text>
                 Apple iPhone 11 Pro smartphone. Announced Sep 2019. Features 5.8″ display Apple A13 Bionic
               </v-card-text>
